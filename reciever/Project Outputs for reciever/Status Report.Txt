@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [reciever.PrjPcb]
+   Generated File[reciever-RoundHoles.TXT]
+   Generated File[reciever-SlotHoles.TXT]
+   Generated File[reciever.DRL]
+   Generated File[reciever.LDP]
+   Generated File[reciever.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:13:23 On 3/8/2013

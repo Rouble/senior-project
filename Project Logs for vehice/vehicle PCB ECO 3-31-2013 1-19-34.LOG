@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-1
+Added Pin To Net: NetName=NetMCU_1 Pin=R3-1
+Added Pin To Net: NetName=NetMCU_1 Pin=XCVR-18
+Added Net: Name=NetMCU_1

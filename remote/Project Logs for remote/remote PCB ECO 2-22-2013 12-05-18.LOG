@@ -1,0 +1,14 @@
+Added Component: Designator=JS1(Joystick)
+Added Component: Designator=JS2(Joystick)
+Added Pin To Net: NetName=NetJS1_B1A Pin=JS1-B1A
+Added Pin To Net: NetName=NetJS1_H2 Pin=JS1-H2
+Added Pin To Net: NetName=VCC Pin=JS1-V1
+Added Pin To Net: NetName=NetJS1_V2 Pin=JS1-V2
+Added Pin To Net: NetName=GND Pin=JS1-V3
+Added Pin To Net: NetName=NetJS2_B1A Pin=JS2-B1A
+Added Pin To Net: NetName=NetJS2_H2 Pin=JS2-H2
+Added Pin To Net: NetName=VCC Pin=JS2-V1
+Added Pin To Net: NetName=NetJS2_V2 Pin=JS2-V2
+Added Pin To Net: NetName=GND Pin=JS2-V3
+Added Member To Class: ClassName=U_joysticks Member=Component JS1 joystick
+Added Member To Class: ClassName=U_joysticks Member=Component JS2 joystick

@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: remote.PcbDoc   3/8/2013  11:03:54
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : remote-RoundHoles.TXT
+ASCII SlotHoles File : remote-SlotHoles.TXT
+EIA File   : remote.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          Round          39               9.05 Inch (229.86 mm)
+T2        27.6mil (0.70104mm)      Round          5                0.30 Inch (7.52 mm)
+T3        31.5mil (0.8001mm)       Round          4                1.21 Inch (30.78 mm)
+T4        33.5mil (0.8509mm)       Slot           2                285.23 Inch (7244.77 mm)
+T5        35.4mil (0.89916mm)      Round          2                0.10 Inch (2.54 mm)
+T6        37mil (0.9398mm)         Round          8                0.41 Inch (10.38 mm)
+T7        43.3mil (1.09982mm)      Round          20               6.47 Inch (164.32 mm)
+T8        51.2mil (1.30048mm)      Round          3                0.37 Inch (9.40 mm)
+T9        73.6mil (1.86944mm)      Round          8                4.42 Inch (112.38 mm)
+T10       86.6mil (2.19964mm)      Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            92               307.56 Inch (7811.96 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

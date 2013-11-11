@@ -1,0 +1,40 @@
+choosing parts
+-Microcontroller requirements
+	at least 4 PWM outputs and an additional 4 digital I/O 
+	u(s)art to communicate with transciever
+	opperating voltage is the same as transciever to minimize power circuitry (majority of 2.4GHz transcievers appear to be 3-3.3V)
+	has free (or very inexpensive) compiler
+	programming hardware is cheap or can be borrowed (usb -> serial converter) or already owned (usb)
+	has large support community 
+ 
+ atmega32u4/atmega16u4
+	needs external crystal for programming/usb
+	additional parts required:
+		resistors
+		capacitors
+		usb connector
+		16mhz crystal
+	
+	
+-transciever
+	2.4GHz band
+	can communicate with selected microcontorllerr
+		
+	 	
+ CYRF8935A-24LQXC
+	additional parts required:
+		inductor
+		capacitors
+		resistors
+		12MHz crystal
+		u.fl connector (for tuning)
+		u.fl pigtail (for tuning)
+		antenna (preferably printed - need to find pcb antenna design guide)
+
+-power
+	playstation controller dissassembled, space for cylindrical batteries in grips
+	rechargable batteries
+		lithium has best life cycle
+	need charge circuitry
+	usb charging (
+	

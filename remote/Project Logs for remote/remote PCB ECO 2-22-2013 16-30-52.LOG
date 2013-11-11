@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetJS1_B1A Pin=MCU-12
+Removed Pin From Net: NetName=NetJS2_B1A Pin=MCU-18
+Added Pin To Net: NetName=NetJS2_B1A Pin=MCU-12
+Added Pin To Net: NetName=NetJS1_B1A Pin=MCU-18

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "remote", "senior projet\remote.cppproj", "{8E8BFB98-0939-4514-89F7-5D75BE55C49A}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "reciever", "reciever\reciever.cppproj", "{78252062-1FEB-4E31-A787-91FF00F60DFB}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "car", "car\car.cppproj", "{0657548B-A043-4D58-B331-8AEF5C98E6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8BFB98-0939-4514-89F7-5D75BE55C49A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8E8BFB98-0939-4514-89F7-5D75BE55C49A}.Debug|AVR.Build.0 = Debug|AVR
+		{8E8BFB98-0939-4514-89F7-5D75BE55C49A}.Release|AVR.ActiveCfg = Release|AVR
+		{8E8BFB98-0939-4514-89F7-5D75BE55C49A}.Release|AVR.Build.0 = Release|AVR
+		{78252062-1FEB-4E31-A787-91FF00F60DFB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{78252062-1FEB-4E31-A787-91FF00F60DFB}.Debug|AVR.Build.0 = Debug|AVR
+		{78252062-1FEB-4E31-A787-91FF00F60DFB}.Release|AVR.ActiveCfg = Release|AVR
+		{78252062-1FEB-4E31-A787-91FF00F60DFB}.Release|AVR.Build.0 = Release|AVR
+		{0657548B-A043-4D58-B331-8AEF5C98E6F2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0657548B-A043-4D58-B331-8AEF5C98E6F2}.Debug|AVR.Build.0 = Debug|AVR
+		{0657548B-A043-4D58-B331-8AEF5C98E6F2}.Release|AVR.ActiveCfg = Release|AVR
+		{0657548B-A043-4D58-B331-8AEF5C98E6F2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

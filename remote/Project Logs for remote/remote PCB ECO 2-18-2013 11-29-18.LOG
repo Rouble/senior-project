@@ -1,0 +1,194 @@
+Added Component: Designator=16mhz xtal(OSC)
+Added Component: Designator=BT1(BAT-2)
+Added Component: Designator=C1(CAPC1608L)
+Added Component: Designator=C2(CAPC1608L)
+Added Component: Designator=C3(CAPC1608L)
+Added Component: Designator=C4(CAPC1608L)
+Added Component: Designator=C5(CAPC1608L)
+Added Component: Designator=C6(CAPC1608L)
+Added Component: Designator=C7(CAPC1608L)
+Added Component: Designator=C8(CAPC1608L)
+Added Component: Designator=C9(CAPC1608L)
+Added Component: Designator=C10(CAPC1608L)
+Added Component: Designator=C11(CAPC1608L)
+Added Component: Designator=chg1(mSOP10)
+Added Component: Designator=D1(LED-1)
+Added Component: Designator=D2(LED-1)
+Added Component: Designator=E1(PIN1)
+Added Component: Designator=J1(5000750517)
+Added Component: Designator=L1(INDC1005AL)
+Added Component: Designator=MCU(QFN50P700X700-44W3M)
+Added Component: Designator=P1(U.FL connector)
+Added Component: Designator=R1(RESC2012N)
+Added Component: Designator=R2(RESC2012N)
+Added Component: Designator=R3(RESC2012N)
+Added Component: Designator=R4(RESC2012N)
+Added Component: Designator=R5(RESC2012N)
+Added Component: Designator=R6(RESC2012N)
+Added Component: Designator=R7(RESC2012N)
+Added Component: Designator=R8(RESC2012N)
+Added Component: Designator=R9(RESC2012N)
+Added Component: Designator=R10(RESC2012N)
+Added Component: Designator=R11(RESC2012N)
+Added Component: Designator=sw1(switch)
+Added Component: Designator=VR1(SOT223-4N)
+Added Component: Designator=XCVR(QFN50P400X400-24VAL)
+Added Component: Designator=Y1(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=16mhz xtal-2
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=chg1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=MCU-5
+Added Pin To Net: NetName=GND Pin=MCU-15
+Added Pin To Net: NetName=GND Pin=MCU-23
+Added Pin To Net: NetName=GND Pin=MCU-35
+Added Pin To Net: NetName=GND Pin=MCU-43
+Added Pin To Net: NetName=GND Pin=MCU-45
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=XCVR-12
+Added Pin To Net: NetName=GND Pin=XCVR-25
+Added Net: Name=GND
+Added Pin To Net: NetName=Net16mhz xtal_1 Pin=16mhz xtal-1
+Added Pin To Net: NetName=Net16mhz xtal_1 Pin=MCU-17
+Added Net: Name=Net16mhz xtal_1
+Added Pin To Net: NetName=Net16mhz xtal_3 Pin=16mhz xtal-3
+Added Pin To Net: NetName=Net16mhz xtal_3 Pin=MCU-16
+Added Net: Name=Net16mhz xtal_3
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=sw1-2
+Added Pin To Net: NetName=NetC4_2 Pin=VR1-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R7-1
+Added Pin To Net: NetName=NetC6_2 Pin=Y1-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R6-2
+Added Pin To Net: NetName=NetC7_2 Pin=XCVR-24
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=L1-2
+Added Pin To Net: NetName=NetC9_1 Pin=XCVR-4
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=MCU-6
+Added Pin To Net: NetName=NetC11_1 Pin=MCU-14
+Added Pin To Net: NetName=NetC11_1 Pin=MCU-24
+Added Pin To Net: NetName=NetC11_1 Pin=MCU-34
+Added Pin To Net: NetName=NetC11_1 Pin=MCU-42
+Added Pin To Net: NetName=NetC11_1 Pin=MCU-44
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=Netchg1_2 Pin=chg1-2
+Added Pin To Net: NetName=Netchg1_2 Pin=R1-2
+Added Net: Name=Netchg1_2
+Added Pin To Net: NetName=Netchg1_4 Pin=chg1-4
+Added Pin To Net: NetName=Netchg1_4 Pin=R4-2
+Added Net: Name=Netchg1_4
+Added Pin To Net: NetName=Netchg1_7 Pin=chg1-7
+Added Pin To Net: NetName=Netchg1_7 Pin=MCU-1
+Added Net: Name=Netchg1_7
+Added Pin To Net: NetName=Netchg1_8 Pin=chg1-8
+Added Pin To Net: NetName=Netchg1_8 Pin=D1-2
+Added Net: Name=Netchg1_8
+Added Pin To Net: NetName=Netchg1_9 Pin=chg1-9
+Added Pin To Net: NetName=Netchg1_9 Pin=R2-2
+Added Net: Name=Netchg1_9
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R5-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=MCU-12
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R9-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=L1-1
+Added Pin To Net: NetName=NetE1_1 Pin=P1-1
+Added Pin To Net: NetName=NetE1_1 Pin=R10-2
+Added Net: Name=NetE1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=MCU-4
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=MCU-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetMCU_8 Pin=MCU-8
+Added Pin To Net: NetName=NetMCU_8 Pin=XCVR-13
+Added Net: Name=NetMCU_8
+Added Pin To Net: NetName=NetMCU_9 Pin=MCU-9
+Added Pin To Net: NetName=NetMCU_9 Pin=XCVR-15
+Added Net: Name=NetMCU_9
+Added Pin To Net: NetName=NetMCU_10 Pin=MCU-10
+Added Pin To Net: NetName=NetMCU_10 Pin=XCVR-16
+Added Net: Name=NetMCU_10
+Added Pin To Net: NetName=NetMCU_11 Pin=MCU-11
+Added Pin To Net: NetName=NetMCU_11 Pin=XCVR-17
+Added Net: Name=NetMCU_11
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=XCVR-18
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-2
+Added Pin To Net: NetName=NetR6_1 Pin=XCVR-23
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=XCVR-3
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=VBAT Pin=BT1-1
+Added Pin To Net: NetName=VBAT Pin=chg1-10
+Added Pin To Net: NetName=VBAT Pin=R5-2
+Added Pin To Net: NetName=VBAT Pin=sw1-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=VR1-3
+Added Pin To Net: NetName=VCC Pin=XCVR-11
+Added Pin To Net: NetName=VCC Pin=XCVR-20
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDD Pin=C3-2
+Added Pin To Net: NetName=VDD Pin=C8-2
+Added Pin To Net: NetName=VDD Pin=C10-1
+Added Pin To Net: NetName=VDD Pin=XCVR-1
+Added Pin To Net: NetName=VDD Pin=XCVR-2
+Added Pin To Net: NetName=VDD Pin=XCVR-5
+Added Pin To Net: NetName=VDD Pin=XCVR-8
+Added Pin To Net: NetName=VDD Pin=XCVR-9
+Added Pin To Net: NetName=VDD Pin=XCVR-19
+Added Pin To Net: NetName=VDD Pin=XCVR-21
+Added Pin To Net: NetName=VDD Pin=XCVR-22
+Added Net: Name=VDD
+Added Pin To Net: NetName=VUSB Pin=C1-2
+Added Pin To Net: NetName=VUSB Pin=chg1-1
+Added Pin To Net: NetName=VUSB Pin=J1-1
+Added Pin To Net: NetName=VUSB Pin=MCU-7
+Added Pin To Net: NetName=VUSB Pin=sw1-3
+Added Net: Name=VUSB
+Added Class: Name=remote
+Added Room: Name=remote
