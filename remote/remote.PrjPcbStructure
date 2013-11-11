@@ -1,6 +1,0 @@
-Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=U_connectors|SchDesignator=U_connectors|FileName=connectors.SchDoc|SymbolType=Normal|RawFileName=connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
-Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=U_joysticks|SchDesignator=U_joysticks|FileName=joysticks.SchDoc|SymbolType=Normal|RawFileName=joysticks.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
-Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=U_mcu|SchDesignator=U_mcu|FileName=mcu.SchDoc|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
-Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=U_power|SchDesignator=U_power|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
-Record=SheetSymbol|SourceDocument=remote.SchDoc|Designator=U_xcvr|SchDesignator=U_xcvr|FileName=xcvr.SchDoc|SymbolType=Normal|RawFileName=xcvr.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
-Record=TopLevelDocument|FileName=remote.SchDoc
