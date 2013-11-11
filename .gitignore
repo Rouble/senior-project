@@ -2,6 +2,7 @@
 History/
 *.OutJob
 *Preview
+*.zip
 
 *.d
 *.o
