@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=VUSB Pin=C4-2
-Removed Pin From Net: NetName=VUSB Pin=VR1-1
-Added Component: Designator=D1(SOD80C)
-Added Pin To Net: NetName=VBAT Pin=C4-2
-Added Pin To Net: NetName=VUSB Pin=D1-1
-Added Pin To Net: NetName=VBAT Pin=D1-2
-Added Pin To Net: NetName=VBAT Pin=VR1-1
-Added Member To Class: ClassName=vehicle Member=Component D1 4148
