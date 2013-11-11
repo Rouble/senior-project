@@ -2,3 +2,13 @@
 History/
 *.OutJob
 *Preview
+
+*.d
+*.o
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.mk
+*.srec
