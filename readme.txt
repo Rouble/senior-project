@@ -7,4 +7,4 @@ the Cypress CYRF8935 2.4GHz transciever
 "H-bridge board" contains files related to the motor drive circuit board contained in the RC car
 needed to wire in replacement reciver/control module
 
-PCB design documents created with Altium Designer Summer 09
+PCB design documents created with Altium Designer 13 Design folder contains PDFs of all designs
